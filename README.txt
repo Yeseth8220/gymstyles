@@ -18,7 +18,7 @@ Todas estas acciones se ejecutan por medio de un controlador de funciones
 
 
 EQUIPO: 
-- William Felipe López Martinez
-- Maria Camila Pardo Gutierrez
+- Yeseth Santiago Reyes Vega 
+- Mabel Tatiana Diaz 
 
 Ficha: 2252471
