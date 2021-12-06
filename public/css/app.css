@@ -1,0 +1,48 @@
+body{
+    background-image: url(../img/GYM1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: rgb(255, 255, 255);
+}
+
+.nav-item{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    font-size:medium;
+}
+
+.login-box-body{
+    background-color: #282828;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.content-wrapper{
+    background-image: url(../img/GYM2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: rgb(255, 255, 255);
+}
+
+#img-carrusel-1{
+    width: 500px;
+    height: 500px;
+}
+#img-carrusel-2{
+    width: 500px;
+    height: 500px;
+}
+#img-carrusel-3{
+    width: 500px;
+    height: 500px;
+}
+
+.modal fade{
+    background-color: #282828;
+}
+
+#cards {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
